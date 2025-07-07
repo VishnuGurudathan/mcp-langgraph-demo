@@ -1,0 +1,8 @@
+-r services/api-gateway/requirements.txt
+# This file is used to specify the Python package dependencies for the API Gateway service.
+-r services/ui/requirements.txt
+# This file is used to specify the Python package dependencies for the UI service.
+-r services/langgraph-agent/requirements.txt
+# This file is used to specify the Python package dependencies for the LangGraph Agent service.
+-r services/mcp-servers/weather-server/requirements.txt
+# This file is used to specify the Python package dependencies for the MCP Servers service.

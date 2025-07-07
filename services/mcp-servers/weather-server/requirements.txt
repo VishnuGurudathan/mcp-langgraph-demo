@@ -1,0 +1,5 @@
+langchain
+langchain_mcp_adapters
+httpx
+pydantic
+python-dotenv

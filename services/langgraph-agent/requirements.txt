@@ -1,0 +1,11 @@
+langchain-groq
+langchain-mcp-adapters
+mcp
+langgraph
+fastapi
+uvicorn[standard]
+langchain
+langgraph
+python-dotenv
+pydantic
+httpx
